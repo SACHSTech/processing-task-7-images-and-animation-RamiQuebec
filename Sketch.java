@@ -21,7 +21,7 @@ public class Sketch extends PApplet {
     // Screen size
     size(1600, 900);
   }
-
+  
   // Called once at the beginning of execution. Add initial set up values here i.e background, stroke, fill etc.
   public void setup() {
     // Black background
